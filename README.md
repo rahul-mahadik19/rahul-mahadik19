@@ -79,16 +79,6 @@ Shell Scripting | YAML | Groovy
 - Kubernetes Deployment with Auto Scaling
 - Monitoring & Logging Setup
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulmahadik19&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmahadik19&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
